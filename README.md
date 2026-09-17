@@ -1,4 +1,4 @@
-# PlanIT V1.0 - Personal Finance & Budgeting Desktop Application
+# PlanIT V2.0 - Personal Finance & Budgeting Desktop Application
 
 PlanIT is a desktop application designed to streamline personal financial management, expense tracking, and long-term budget forecasting. Whether you are looking to manage daily spending, build a savings fund, or project future investment returns, PlanIT delivers essential money management tools in one centralized desktop environment.
 
