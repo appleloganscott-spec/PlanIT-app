@@ -32,7 +32,7 @@ PlanIT is a desktop application designed to streamline personal financial manage
 | **Development Environment** | Embarcadero Delphi |
 | **UI Framework** | FireMonkey (FMX) |
 | **Programming Language** | Object Pascal |
-| **Backend Database** | Microsoft Access (`.accdb`) |
+| **Backend Database** | Microsoft Access (`.mdb`) |
 | **Target OS** | Windows 10 / 11 (64-bit) |
 
 ---
